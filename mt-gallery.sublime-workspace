@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"mt-",
+				"mt-album-gallery"
+			],
+			[
+				"sc",
+				"screenWidth"
+			],
+			[
+				"mt",
+				"mtViewerThumb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/layout/_main.scss",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/component/_viewer.scss",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/component/_album.scss",
+			"settings":
+			{
+				"buffer_size": 1606,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"vri",
+				"Snippet: font-variant"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/scripts/main.js",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/libs/_gridster.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/.tmp/styles/style.css",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/libs/jquery.gridster.css",
+		"/home/antoine/code/sandbox/mt-gallery/app/styles/libs/jquery.gridster.css",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/style.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/scripts/gridster.js",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/layout/_font.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/mixin/_variables.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/component/_overlay.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/libs/_animations.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/layout/_main.scss",
+		"/home/antoine/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/Gruntfile.js",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/component/_album.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/mixin/_mixins.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/libs/_media-queries.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/layout/main.scss",
+		"/home/antoine/code/sandbox/sqapp/app/templates/scss/_mixins.scss",
+		"/home/antoine/code/sandbox/sqapp/app/templates/scss/animate/_animations.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/app/styles/animate/_animations.scss",
+		"/home/antoine/Bureau/code/sandbox/mt-gallery/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i",
+			"y",
+			"top",
+			"scrollTop",
+			"width",
+			"top",
+			"x",
+			"../",
+			" $",
+			"$this",
+			"obj",
+			"background",
+			"style",
+			"gallery",
+			"h1",
+			"div",
+			"white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 3517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1272,
+								1272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "app/styles/layout/_main.scss",
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/styles/component/_viewer.scss",
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/component/_album.scss",
+					"settings":
+					{
+						"buffer_size": 1606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.488425925926,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.js",
+				"app/scripts/main.js"
+			],
+			[
+				"sty",
+				"app/styles/style.scss"
+			],
+			[
+				"font",
+				"app/styles/layout/_font.scss"
+			],
+			[
+				"var",
+				"app/styles/mixin/_variables.scss"
+			],
+			[
+				"ania",
+				"app/styles/libs/_animations.scss"
+			],
+			[
+				"main",
+				"app/styles/layout/_main.scss"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"mainjs",
+				"app/scripts/main.js"
+			],
+			[
+				"componental",
+				"app/styles/component/_album.scss"
+			],
+			[
+				"mainscs",
+				"app/styles/layout/_main.scss"
+			],
+			[
+				"media",
+				"app/styles/libs/_media-queries.scss"
+			],
+			[
+				"mixin",
+				"app/styles/mixin/_mixins.scss"
+			],
+			[
+				"ani",
+				"app/styles/animate/_animations.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
