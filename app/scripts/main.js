@@ -13,31 +13,6 @@
         });
     } 
 
-    // $(document).ready(function(){
-    //     var $window = $(window);
-             
-    //     $('[data-type="parallax"]').each(function(){
-    //         var $this = $(this);
-                            
-    //         $(window).scroll(function() {
-    //             var min = ($window.scrollLeft() == 0 );
-    //             var xPos = - ($window.scrollLeft() / $this.data('speed') + 50);
-    //             var coords = xPos + 0 + 'px';
-
-    //             if(min){
-    //                 $this.css({
-    //                     left: 0
-    //                 });
-    //             }
-    //             else {
-    //                 $this.css({
-    //                     left: coords
-    //                 });
-    //             }
-    //         });
-    //     }); 
-    // });
-
     scroll();
 
     $(".mt-upload-open").on("click", function(){
@@ -45,11 +20,21 @@
         window.location.hash = ('upload');
     });
 
+    $(".mt-album-over-circle, .mt-viewer-open").on("click", function(event){
+        event.preventDefault();
+        $(".mt-gallery-content").load('photos.html');
+        window.location.hash = ('albumName/photos');
+    });
+
     // TEST ONLY
     var max = 4;
 
     for (var i = 0; i < max; i++) {
         $(".mt-album").clone().appendTo(".mt-album-gallery");
+    }
+
+    for (var i = 0; i < max; i++) {
+        $(".mt-photo").clone().appendTo(".mt-photo-gallery");
     }
     
     var NbAlbum = $('.mt-album').size();

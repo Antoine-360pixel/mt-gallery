@@ -77,6 +77,10 @@
     background: $secondary;
     @include border-radius($width/2);
     @extend .fadeInUp;
+
+    &:hover {
+        cursor: pointer;
+    }
 }
 
 .mt-album-eyes {
